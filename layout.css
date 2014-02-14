@@ -1,0 +1,54 @@
+.bg-image {
+    position: relative;
+	 background: url(images/bg.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.bg-image img {
+    display: block;
+    width: 100%;
+    max-width: 1200px; /* corresponds to max height of 450px */
+    margin: 0 auto;
+}
+.bg-image h1 {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+}
+.nav, .main {
+    background-color: #f6f6f6;
+    text-align: center;
+}
+
+.a2-bg {
+
+	 background: url(images/bg.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  }
+
+
+
+.a2-menu {
+    position: relative;
+}
+
+.a2-menu img {
+    display: block;
+    width: 100%;
+    max-width: 1200px; /* corresponds to max height of 450px */
+    margin: 0 auto;
+}
+
+
+iframe {
+  max-width: 100%;
+}
